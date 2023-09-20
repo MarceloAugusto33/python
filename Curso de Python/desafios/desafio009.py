@@ -1,0 +1,2 @@
+numero = int(input("Digite um numero para acessar a sua tabuada: "))
+print("{} x 1 = {}\n{} x 2 = {}\n{} x 3 = {}\n{} x 4 = {}\n{} x 5 = {}\n{} x 6 = {}\n{} x 7 = {}\n{} x 8 = {}\n{} x 9 = {}\n{} x 10 = {}\n".format(numero,numero*1,numero,numero*2,numero,numero*3,numero,numero*4,numero,numero*5,numero,numero*6,numero,numero*7,numero,numero*8,numero,numero*9,numero,numero*10))
